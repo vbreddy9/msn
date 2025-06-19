@@ -103,7 +103,7 @@ const StudyAbroadForm = () => {
               onMouseEnter={(e) => (e.currentTarget.style.backgroundColor = '#cb8904')}
               onMouseLeave={(e) => (e.currentTarget.style.backgroundColor = '#cb8904')}
             >
-              Starting Price: ₹5.83 Cr* Onwards
+              Starting Price: ₹6.20 Cr* Onwards
             </a>
             </div>
           </div>
